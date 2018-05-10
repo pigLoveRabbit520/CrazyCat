@@ -1,4 +1,4 @@
-# SalamanderCrazyCat
+# CrazyCat
 Winform版围住神经猫
 
 # Download
